@@ -1,7 +1,7 @@
 {
-  "app_version":"6209.1", "app_link":"", "app_md5sum":"",
+  "app_version":"6209.1", "app_url":"", "app_md5sum":"",
   "updater_link":"",
-  "db_version":1, "db_link":"", "db_md5sum":"",
-  "fullhack_version":"6209.1", "fullhack_link":"", "fullhack_md5sum":"",
+  "db_version":1, "db_url":"", "db_md5sum":"",
+  "fullhack_version":"6209.1", "fullhack_url":"", "fullhack_md5sum":"",
   "broadcast":"Tidak ada pemberitahuan baru hari ini"
 }
