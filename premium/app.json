@@ -1,0 +1,8 @@
+{
+  "login_url":"http://rhzsystem.xyz/login.php",
+  "app_url":"http://localhost/ayodance.rhztech/files/RHZTech", "app_md5":"855110763E130BD1C2CC6168B873D8E6",
+  "updater_url":"http://localhost/ayodance.rhztech/files/RHZUpdater", "updater_md5":"98EDF224CD32A49863BC23ED4E59057E",
+  "db_url":"http://localhost/ayodance.rhztech/files/rhztech.db", "db_md5":"6F207A409F2EC0F35FDC1CA621D23F69",
+  "fullhack_url":"", "fullhack_md5":"",
+  "broadcast":"Tidak ada pemberitahuan baru hari ini"
+}
